@@ -1,1 +1,1 @@
-# TrafficAccidentSeverityPrediction
+# accidentSeverityPrediction
