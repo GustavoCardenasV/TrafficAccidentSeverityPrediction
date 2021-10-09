@@ -31,4 +31,7 @@ The models section contains the compressed folder containing the modeling for th
 The VPD_lowerMainLand.csv file can be finnd inside the "data" folder. This is the file where the "raw" information is contained, the 93,546 observations are limmited to the events reported by the police or submitted by individuals to police for the "Lower Mainland" area of Vancouver, British Columbia. The information listed is for the period of 2015 to 2019.
 
 ## Next Steps:
+- Deeper data engineering preprocess
+- Further modeling (i.e. Support Vector Machine)
+- Develop the web GUI 
 
